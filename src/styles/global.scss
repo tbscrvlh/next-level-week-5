@@ -54,8 +54,22 @@ button {
     }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 850px) {
     html {
         font-size: 87.5%;
+
+        header {
+
+            p {
+            font-size: 70%;
+            justify-content: space-between ;
+            }
+
+            span {
+                font-size: 80%;
+                padding-left: 10px;
+            }
+        }
     }
+    
 }
