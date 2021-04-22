@@ -1,5 +1,5 @@
 .homepage {
-    padding: 0 4 rem;
+    padding: 0.4rem;
     height: calc(100vh - 6.5rem);
     overflow-y: scroll;
 
@@ -25,12 +25,12 @@
             position: relative;
 
             display: flex;
-            align-items: center;
+            align-items:center;
 
             img {
                 width: 6rem;
                 height: 6rem;
-                border-radius: 1 rem;
+                border-radius: 1rem;
             }
 
             .episodeDetails {
